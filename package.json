@@ -1,0 +1,23 @@
+{
+  "name": "Node-Express-Cloud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/honkantaphon123/Node-Express-Cloud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/honkantaphon123/Node-Express-Cloud/issues"
+  },
+  "homepage": "https://github.com/honkantaphon123/Node-Express-Cloud#readme",
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}
